@@ -1,0 +1,51 @@
+.tab {
+      margin-left: 40px;
+}
+
+.half-tab {
+      margin-left: 20px;
+}
+
+.tag .example header h5,
+.tag .example section h3{
+      margin: 0;
+}
+
+.tag .example section p {
+      margin-bottom: 0;
+}
+
+#closeDialog {
+      width: 180px;
+}
+
+#map-img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    /*height: 232px;*/
+}
+
+#tag-col {
+      padding: .7rem;
+      margin-left: 1rem;
+}
+
+#tag-h2 {
+      color: aqua;
+      font-size: 1.5rem;
+      margin: 0;
+      padding: 0;
+}
+
+#categories-iframe {
+      width: 1040px;
+}
+
+#tag-iframe {
+      width: 1016px;
+}
+
+#article-iframe {
+      width: 1016px;
+}

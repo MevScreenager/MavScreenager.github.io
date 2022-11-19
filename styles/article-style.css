@@ -1,0 +1,107 @@
+article, div {
+    border-radius: 15px;
+    padding: .3rem;
+}
+
+div h1 {
+    color:#FFFFFF
+}
+
+div {
+    float: left;
+}
+
+.div-categories {
+    padding: 0;
+    margin: 0;
+    border: none;
+    width: 529px;
+}
+
+#iframe {
+    width: 430px;
+}
+
+.categories {
+    /*background-color:  #2D3037; /*#FFFFFF - светлая тема*/
+    width: 508px;
+    margin: .3rem;
+    border: 1px solid white;
+}
+
+.div-tag {
+    padding: 0;
+    width: 252px;
+}
+
+.tag {
+    margin: .5rem;
+    background-color: #202327; /*#EFF3F4 - светлая тема*/
+    font: 1rem 'Fira Sans', sans-serif;
+    width: 226px;
+    /*border: 1px solid white;*/
+}
+
+.tag-l {
+    width: 479px;
+}
+
+
+.tag h2,
+.data,
+.example {
+    margin: .5rem;
+    padding: .3rem;
+    font-size: 1.1rem;
+}
+
+.tag h2 {
+    color:dodgerblue;
+}
+
+.data {
+    color: #FFFFFF;
+}
+
+.example {
+    color:aqua
+}
+
+
+.data,
+.example {
+    background: /*right/contain content-box border-box no-repeat
+        url('/media/examples/rain.svg')*/ #2D3037;
+}
+
+.data > p,
+.example > p {
+    margin: .2rem;
+    font-size: 1rem;
+}
+
+.data-l,
+.example-l {
+    float: left;
+}
+
+.example-l {
+    padding: 1.2rem;
+}
+
+
+
+
+
+.div-data {
+    border: none;
+    float: left;
+    width: 220px;
+    margin: 0;
+    padding: 0;
+}
+
+.tag-old > h2,
+.data-old {
+    color: #A00711;
+}

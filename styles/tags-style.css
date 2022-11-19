@@ -1,0 +1,162 @@
+ul, ol {
+      display: block;
+      /*list-style-type: disc;*/
+      margin-top: .5em;
+      margin-bottom: .5em;
+      margin-left: 0;
+      margin-right: 0;
+      padding-left: 40px;
+}
+
+dl {
+      margin-top: .5em;
+      margin-bottom: .5em;
+}
+
+aside {
+      width: 7.5rem;
+      padding-left: .5rem;
+      margin-left: .5rem;
+      float: right;
+      box-shadow: inset 5px 0 5px -5px #29627e;
+      font-style: italic;
+      color: #29627e;
+}
+
+dialog {
+      position: fixed;
+      margin: .5rem;
+      padding: .3rem;
+      background: #2D3037;
+      color: white;
+
+      width: 235px;
+      left: 50%;
+      top: 50%;
+      border-radius: 15px;
+}
+
+figure {
+      margin: 0;
+      padding: 0;
+}
+
+figcaption {
+      margin-top: .6rem;
+      font-size: 1rem;
+}
+
+blockquote {
+      margin-right: 0;
+      margin-bottom: 0;
+}
+
+mark {
+      color: white;
+      background-color:darkorchid;
+      border-radius: 3px;
+}
+
+kbd {
+      background-color: #3d3e40;
+      border-radius: 3px;
+}
+
+#tag-pre {
+      padding: 0;
+      margin: 0;
+}
+
+ruby {
+	font-size: 3.1em;
+      padding: 2rem;
+}
+
+input {
+      border-radius: 8px;
+      border-color: aqua;
+      color: #3d3e40;
+      font-size: 1rem;
+      width: 186px;
+}
+
+#input-submit {
+      margin-top: 10px;
+      width: 100px;
+}
+
+textarea {
+      color:#3d3e40;
+}
+
+select {
+      border-radius: 10px;
+      width: 150px;
+      text-align: center;
+}
+
+fieldset {
+      width: 165px;
+      border-radius: 10px;
+}
+
+#tag-fieldset-input1 {
+      width: 100px;
+}
+
+#tag-fieldset-input2 {
+      width: 98px;
+      margin-top: .5rem;
+      margin-left: .3rem;
+}
+
+#tag-fieldset-input3 {
+      margin-top: .5rem;
+      width: 50px;
+}
+
+datalist {
+      margin: 0;
+      padding: 0;
+}
+
+#tag_output_input_a {
+      width: 150px
+}
+
+#tag_output_input_b {
+      margin-left: .3rem;
+      width: 120px;
+}
+
+table, th, td {
+      width: 172px;
+      border: 1px solid;
+      margin: auto;
+      border-radius: 3px;
+}
+
+audio {
+      width: 225px;
+      height: 30px;
+}
+
+video {
+      border-radius: 10px;
+      width: 225px;
+}
+
+.tag-h {
+      margin: 0;
+      padding: 0;
+      font-size: none;
+      color:#00ffff
+}
+
+hr {
+      color: red;
+}
+
+iframe {
+      border-radius: 10px;
+}

@@ -1,0 +1,43 @@
+::selection {
+      background: #46727D;
+}
+
+body {
+      background: #000000;
+}
+
+img {
+      width: 200px;
+      border-radius: 15px;
+}
+
+a img {
+      border: none;
+}
+
+a:link {
+      color: cornflowerblue;
+}
+
+a:visited {
+    color: #8F0097;
+}
+
+a:hover {
+    color:blueviolet;
+}
+
+a:active {
+    color:darkslategray;
+}
+
+button {
+      border-radius: 15px;
+      width: 210px;
+      border: 1px solid white;
+}
+
+button:active {
+      border: 1px solid black;
+      color: black;
+}
