@@ -4,7 +4,7 @@ article, div {
 }
 
 div h1 {
-    color:#FFFFFF
+    color:#FFFFFF;
 }
 
 div {
@@ -31,7 +31,7 @@ div {
 
 .div-tag {
     padding: 0;
-    width: 252px;
+    width: 252px    ;
 }
 
 .tag {
@@ -64,7 +64,7 @@ div {
 }
 
 .example {
-    color:aqua
+    color:aqua;
 }
 
 
