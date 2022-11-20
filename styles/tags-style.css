@@ -9,8 +9,10 @@ ul, ol {
 }
 
 dl {
-      margin-top: .5em;
-      margin-bottom: .5em;
+      margin: 0;
+      padding: 0;
+      padding-top: .5rem;
+      padding-bottom: .5rem;
 }
 
 aside {
