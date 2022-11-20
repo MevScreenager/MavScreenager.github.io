@@ -31,7 +31,8 @@ div {
 
 .div-tag {
     padding: 0;
-    width: 252px    ;
+    width: 252px;
+    float: left;
 }
 
 .tag {
