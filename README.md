@@ -1,5 +1,14 @@
-### Site
+# Learning Frontend, HTML`s tags
 
-You can watch it [here](https://mevscreenager.github.io/mavscreenager.github.io/)
+Мой первый сайт
 
-Не пугайтесь:)
+## Цель
+
+Освоение нового умения. Изучение иснов Frontend-разработки
+
+## Описание
+На странице сайта находится название тега, его описание и пример использования. Стиль настраивается по средствам CSS.
+
+## Результат
+
+Сайт раположен на сервере GitHub [по ссылке](https://mevscreenager.github.io/mavscreenager.github.io/)
